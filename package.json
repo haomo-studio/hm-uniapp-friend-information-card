@@ -1,6 +1,6 @@
 {
   "name": "hm-uniapp-friend-information-card",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "毫末uni-app新闻详情组件。支持H5/小程序(微信、支付宝、头条、百度、QQ)/App；组件可自适应各种屏幕大小的手机。",
   "main": "index.js",
   "scripts": {

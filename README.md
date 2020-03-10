@@ -37,9 +37,9 @@
 在script中引用：
 
 ```javascript
-import HmFriendsList from '@/components/hm-friend-information-card/index.vue'
+import HmFriendInformationCard from '@/components/hm-friend-information-card/index.vue'
 export default {
-    components: {HmFriendsList}
+    components: {HmFriendInformationCard}
 }
 ```
 
